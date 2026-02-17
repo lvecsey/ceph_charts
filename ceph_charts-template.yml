@@ -1,0 +1,15 @@
+
+hosts:
+  - mon1.local
+  - mon2.local
+  - mon3.local
+
+hosts_ip:
+  - "192.168.2.21"
+  - "192.168.2.22"
+  - "192.168.2.23"
+
+data_fn: "/home/user/.cache/ceph_charts/ceph_monitors.dat"
+
+
+
